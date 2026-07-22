@@ -43,12 +43,15 @@ Interests:
 
 ---
 
-<h2>🌐 My Portfolio</h2>
+<h2>🚀 Featured Project</h2>
+
+<a href="https://dafano-portfolio.vercel.app">
+  <img src="assets/portfolio.png" width="850">
+</a>
 
 <p align="center">
-  <a href="https://kink-devon.vercel.app">
-    <img src="assets/portfolio.png" alt="My Portfolio" width="900">
-  </a>
+  <b>🌐 Personal Portfolio</b><br>
+  Responsive portfolio website built with HTML, CSS & JavaScript.
 </p>
 
 ---
