@@ -43,14 +43,12 @@ Interests:
 
 ---
 
-# 📊 GitHub Stats
+<h2>🌐 My Portfolio</h2>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kink-devon&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kink-devon&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://kink-devon.vercel.app">
+    <img src="assets/portfolio.png" alt="My Portfolio" width="900">
+  </a>
 </p>
 
 ---
