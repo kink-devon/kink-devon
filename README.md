@@ -46,7 +46,7 @@ Interests:
 # 🚀 Featured Project
 
 <a href="https://dafano-portfolio.vercel.app">
-  <img src="assets/portfolio.png" width="850">
+  <img src="assets/portfolio.png" width="600">
 </a>
 
 <p align="center">
