@@ -35,7 +35,7 @@ Interests:
 
 #  Experience
 My experience, I've participated in many activities both in school and outside of school, and the skills I have are quite interesting. I also once attended military training for the TNI anniversary event in Sanggabuana, Karawang.
-- I can use almost 100% of AI's potential now
+- I can use almost 100% of AI's potential now fot design or manipulation Photo/Video
 - Winning a gold medal in the high school/vocational school level OSSN Economics Olympiad
 - can use many languages like Python, C, C++, Java, HTML, CSS, JS, React, Node, etc
 - I can also climb mountains up to 3000masl, that proves my body is strong too
