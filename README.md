@@ -45,13 +45,16 @@ Interests:
 
 # 🚀 Featured Project
 
+<p align="center">
+
 <a href="https://dafano-portfolio.vercel.app">
-  <img src="assets/portfolio.png" width="600">
+  <img src="assets/portfolio.png" width="49%" alt="Portfolio">
 </a>
 
-<p align="center">
-  <b>🌐 Personal Portfolio</b><br>
-  Responsive portfolio website built with HTML, CSS & JavaScript.
+<a href="https://topup-kamu.vercel.app">
+  <img src="assets/XAUUSD.jpeg" width="49%" alt="Top Up Website">
+</a>
+
 </p>
 
 ---
