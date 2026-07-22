@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm Devon
+# 👋 Hello, I'm Dafano
 
-### 💻 Full Stack Web Developer | Software Engineer
+### 💻 Beginnner Web Developer | Software Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=00F7FF&lines=Welcome+to+my+GitHub!;Web+Developer;Always+Learning+New+Things;Building+Cool+Projects" />
 
