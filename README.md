@@ -1,16 +1,105 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kink-devon/kink-devon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Devon
 
-Here are some ideas to get you started:
+### 💻 Full Stack Web Developer | Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=00F7FF&lines=Welcome+to+my+GitHub!;Web+Developer;Always+Learning+New+Things;Building+Cool+Projects" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Devon
+
+Location: Indonesia
+
+Role: Web Developer
+
+Learning:
+  - React
+  - Tailwind CSS
+  - Python
+  - C++
+
+Interests:
+  - AI
+  - Cyber Security
+  - UI/UX
+```
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,cpp,mysql,git,github,linux,vscode&perline=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kink-devon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kink-devon&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kink-devon&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kink-devon&theme=tokyonight&no-frame=true&column=6"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌐 Portfolio | My personal portfolio website |
+| 🤖 AI Project | AI experiments |
+| 📱 Web App | Responsive web application |
+| 🛠 Tools | Utilities and open-source projects |
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/kink-devon">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kink-devon&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
