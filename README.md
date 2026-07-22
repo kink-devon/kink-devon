@@ -13,9 +13,9 @@
 # 🚀 About Me
 
 ```yaml
-Name: Devon
+Name: Dafano Rizki Ramadhan
 
-Location: Indonesia
+Location: Indonesia, Bogor
 
 Role: Web Developer
 
@@ -24,6 +24,8 @@ Learning:
   - Tailwind CSS
   - Python
   - C++
+  - PHP
+  - MySQL
 
 Interests:
   - AI
