@@ -52,7 +52,7 @@ Interests:
 </a>
 
 <a href="https://topup-kamu.vercel.app">
-  <img src="assets/emas.png" width="49%" alt="Top Up Website">
+  <img src="assets/emas.png" width="30%" alt="Top Up Website">
 </a>
 
 </p>
