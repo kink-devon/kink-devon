@@ -32,7 +32,7 @@ Interests:
   - Cyber Security
   - UI/UX
 ```
-Hello, let me introduce myself, my name is Dafano Rizki Ramadhan, you can call me Dafano/Fano. I study at SMKN 2 KOTA BEKASI, majoring in Software Engineering (RPL). I have many hobbies, including fishing, playing musical instruments, hiking, gaming, and cycling. I enjoy exploring beautiful spots like waterfalls, rivers, beaches, and other natural scenery. My hope is to develop myself better and learn all kinds of skills. I already know quite a lot, such as cooking, repairing electronic devices, playing musical instruments, swimming, hiking, survival skills, fishing, a bit of health knowledge, and sports.
+Hello, let me introduce myself, my name is Dafano Rizki Ramadhan, you can call me Dafano/Fano. I study at SMKN 2 KOTA BEKASI, majoring in Software Engineering (RPL). I have many hobbies, including fishing, playing musical instruments, hiking, gaming, and cycling. I enjoy exploring beautiful spots like waterfalls, rivers, beaches, and other natural scenery. My hope is to develop myself better and learn all kinds of skills. I already know quite a lot, such as cooking, repairing electronic devices, playing musical instruments, swimming, hiking, survival skills, fishing, a bit of health knowledge, sewing clothes, cutting hair and sports.
 
 #  Experience
 My experience, I've participated in many activities both in school and outside of school, and the skills I have are quite interesting. I also once attended military training for the TNI anniversary event in Sanggabuana, Karawang.
