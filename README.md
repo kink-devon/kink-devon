@@ -119,10 +119,9 @@ My experience, I've participated in many activities both in school and outside o
 </a>
 
 <!-- WhatsApp -->
-<a href="https://wa.me/6295340381247" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="WhatsApp" />
+<a href="https://wa.me/62895340381247" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" />
 </a>
-
 </p>
 
 ---
