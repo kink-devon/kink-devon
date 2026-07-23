@@ -104,22 +104,22 @@ My experience, I've participated in many activities both in school and outside o
 <p align="center">
 
 <!-- GitHub -->
-<a href="https://github.com/username" target="_blank">
+<a href="https://github.com/kink-devon" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <!-- Gmail -->
-<a href="mailto:emailkamu@gmail.com" target="_blank">
+<a href="mailto:fanogg123@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <!-- Instagram -->
-<a href="https://instagram.com/username_ig" target="_blank">
+<a href="https://instagram.com/dvon_journey" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <!-- WhatsApp -->
-<a href="https://wa.me/6281234567890" target="_blank">
+<a href="https://wa.me/6295340381247" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="WhatsApp" />
 </a>
 
