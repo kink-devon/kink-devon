@@ -83,7 +83,7 @@ My experience, I've participated in many activities both in school and outside o
 
 <p align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kink-devon&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kink-devon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
