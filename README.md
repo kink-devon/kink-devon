@@ -68,7 +68,7 @@ My experience, I've participated in many activities both in school and outside o
 
 <p align="center">
 <a href="https://github.com/kink-devon/Portfolio">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kink-devon&repo=Portfolio&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kink-devon&repo=dapa-repo&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/kink-devon/Web-App">
