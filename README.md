@@ -65,6 +65,25 @@ My experience, I've participated in many activities both in school and outside o
   <img src="assets/emas.png" width="30%" alt="Top Up Website">
 </a>
 
+
+<p align="center">
+<a href="https://github.com/kink-devon/Portfolio">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kink-devon&repo=Portfolio&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/kink-devon/Web-App">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kink-devon&repo=Web-App&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/kink-devon/Calculator">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kink-devon&repo=Calculator&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/kink-devon/Weather-App">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kink-devon&repo=Weather-App&theme=tokyonight"/>
+</a>
+</p>
+
 </p>
 
 ---
