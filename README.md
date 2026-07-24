@@ -65,6 +65,8 @@ My experience, I've participated in many activities both in school and outside o
   <img src="assets/emas.png" width="30%" alt="Top Up Website">
 </a>
 
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
