@@ -47,7 +47,7 @@ My experience, I've participated in many activities both in school and outside o
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,cpp,mysql,git,github,adobe,linux,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,cpp,mysql,git,github,godot,linux,vscode&perline=7"/>
 
 </p>
 
