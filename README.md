@@ -54,7 +54,7 @@ My experience, I've participated in many activities both in school and outside o
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Gallery
 
 <p align="center">
 
