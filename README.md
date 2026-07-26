@@ -40,6 +40,7 @@ My experience, I've participated in many activities both in school and outside o
 - Winning a gold medal in the high school/vocational school level OSSN Economics Olympiad
 - can use many languages like Python, C, C++, Java, HTML, CSS, JS, React, Node, etc
 - I can also climb mountains above 3000masl, that proves my body is strong too
+- Attending a FIGMA seminar at Bina Insani University
 
 ---
 
