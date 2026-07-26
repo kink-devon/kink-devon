@@ -70,6 +70,8 @@ My experience, I've participated in many activities both in school and outside o
   <img src="assets/topup.png" width="49%" alt="Top Up Website">
 </a>
 
+<img src="assets/seminar.png" width="30%" alt="Top Up Website">
+
 ---
 
 # 🔥 GitHub Streak
